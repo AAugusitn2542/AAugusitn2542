@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AAugusitn2542
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Java, Html, Css, JavaScript
+- 🌱 I’m currently learning Java, Html, Css, JavaScript , Linux
 - 💞️ I’m looking to collaborate on project of any kind
 - 📫 How to reach me email is  augustinandre010@gmail.com
 
