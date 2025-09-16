@@ -9,7 +9,7 @@ I'm passionate about using technology to solve real-world problems, whether that
 *Always learning, always building, always excited about the next challenge!*
 
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/97b01ec7-8ea9-4a26-9a10-cb8307048e47" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/97b01ec7-8ea9-4a26-9a10-cb8307048e47" />
 
 - 📫 How to reach me email is  augustinandre010@gmail.com
 - Linkedln https://www.linkedin.com/in/andre-augustin1/
