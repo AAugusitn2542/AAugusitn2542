@@ -1,14 +1,13 @@
 Hey, I'm Andre! 👋
 
+# What I Like To Do 🚀
 
+I'm passionate about using technology to solve real-world problems, whether that's analyzing 2,000+ plant specimens for scientific research at Carnegie Science, improving AI medical imaging systems, or building full-stack web applications from scratch. I love exploring AI and machine learning applications, creating everything from real-time chat apps to AI-powered e-commerce sites with intelligent chatbots. Besides, you'll find me crafting responsive websites and robust backend systems, or using my skills to support creative communities like local music bands. I'm always excited about the next challenge and constantly learning new ways to build impactful, scalable solutions.
 
-🎯 What I Do
+---
 
-- Currently build web application's
-- Alumni at STEM Program @Foothill College 
-- 👀 I’m interested in sports, and marine life 
-- 🌱 I’m currently learning Python, Html, Css, JavaScript, Linux
-- 💞️ I’m looking to collaborate on project of any kind
+*Always learning, always building, always excited about the next challenge!*
+
 - 📫 How to reach me email is  augustinandre010@gmail.com
 - Linkedln https://www.linkedin.com/in/andre-augustin1/
 
