@@ -1,13 +1,10 @@
 Hey, I'm Andre! 👋
 
 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## 🛠️ Tech Stack
+**Languages:** Python, JavaScript, TypeScript, SQL, R
+**Frameworks/Tools:** Node.js, Express, LangGraph, Anthropic API
+**Databases:** PostgreSQL, MySQL
 
 # What I Like To Do 🚀
 
