@@ -11,7 +11,9 @@ Hey, I'm Andre! 👋
 
 # What I Like To Do 🚀
 
-I'm passionate about using technology to solve real-world problems, whether that's analyzing 2,000+ plant specimens for scientific research at Carnegie Science, improving AI medical imaging systems, or building full-stack web applications from scratch. I love exploring AI and machine learning applications, creating everything from real-time chat apps to AI-powered e-commerce sites with intelligent chatbots. Besides, you'll find me crafting responsive websites and robust backend systems, or using my skills to support creative communities like local music bands. I'm always excited about the next challenge and constantly learning new ways to build impactful, scalable solutions.
+I build AI-powered applications and analyze data to solve real problems — from
+training medical imaging models for cancer detection, to designing LangGraph
+agents, to building full-stack apps end to end. Currently focused on building on top of LangGraph agents, and continue to imporve Mr.leoruythemandsoul website
 
 ---
 
