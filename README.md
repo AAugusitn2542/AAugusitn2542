@@ -3,8 +3,11 @@ Hey, I'm Andre! 👋
 
 ## 🛠️ Tech Stack
 **Languages:** Python, JavaScript, TypeScript, SQL, R
+
 **Frameworks/Tools:** Node.js, Express, LangGraph, Anthropic API
+
 **Databases:** PostgreSQL, MySQL
+
 
 # What I Like To Do 🚀
 
@@ -22,9 +25,8 @@ I'm passionate about using technology to solve real-world problems, whether that
 - Database Architecture: Designed and implemented relational database systems for restaurant management and led teams in complex SQL optimization projects
 - Creative Tech Solutions: Developed promotional websites for local music brands and real-time chat applications that connect communities
 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/dec841f5-5906-4974-aa57-343bc9c13d2e" />  - 📫 How to reach me email is  augustinandre010@gmail.com - Linkedln https://www.linkedin.com/in/andre-augustin1/
 
-<!---
-AAugusitn2542/AAugusitn2542 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Reach me: [Email](mailto:augustinandre010@gmail.com) · [LinkedIn](https://www.linkedin.com/in/andre-augustin1/)
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/dec841f5-5906-4974-aa57-343bc9c13d2e" />  
+
