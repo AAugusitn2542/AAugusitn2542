@@ -10,10 +10,10 @@ Hey, I'm Andre! 👋
 
 
 # What I Like To Do 🚀
-
 I build AI-powered applications and analyze data to solve real problems — from
 training medical imaging models for cancer detection, to designing LangGraph
-agents, to building full-stack apps end to end. Currently focused on building on top of LangGraph agents, and continue to imporve Mr.leoruythemandsoul website
+agents, to building full-stack apps end to end. Currently focused on building
+out LangGraph agents(https://github.com/AAugusitn2542/Langgraph_Agent/tree/master) and improving [Mr.LeoRythemAndSoul](https://github.com/AAugusitn2542/Mr.LeoRythemAndSoul).
 
 ---
 
